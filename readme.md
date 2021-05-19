@@ -9,11 +9,6 @@ don't need to read any further**
 
 The scripts were written using a `Python 3.7.9` environment.
 
-A lot of the cards are for unobtainable items etc. or are otherwise not
-very useful, so I would really appreciate it if someone would be willing to
-help me filter through the approximately 1200 cards to decide which 
-cards should be deleted. If you can help, DM me on Discord (`negosaki#4243`)
-
 ## External requirements
 * Anki 2.1.35 installed with a profile named `test` and a deck
 called `maikura`
