@@ -36,3 +36,5 @@ recordings for words that have that available (not many due to the specific
 names of most items), etc. Note that these add ons should not be required to
 view the cards if you just download the deck from Ankiweb, as it works on my
 phone on AnkiDroid.
+8. Next, I manually went through the cards and deleted cards that weren't useful, for example unobtainable or obscure items. I also manually added some definitions
+for some words that couldn't be found in JMDIct. This brought the deck down from 1220 to 197 words.
